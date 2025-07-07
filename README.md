@@ -72,4 +72,4 @@ This mini-project analyzes **simulated ship engine sensor data** to detect anoma
 ## 👨‍💻 Author
 
 Alejandro Ortuño  
-[LinkedIn](www.linkedin.com/in/alejandro-ortuño-garcía-1bb778171) | [GitHub](https://github.com/aleorgar)
+[LinkedIn](www.linkedin.com/in/alejandro-ortuno-garcia-1bb778171) | [GitHub](https://github.com/aleorgar)
